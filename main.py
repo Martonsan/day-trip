@@ -24,6 +24,13 @@ for first_transportation in transportation_names:
     print(first_transportation)
 for first_entertainment in entertainment_names:
     print(first_entertainment)
+
+def take_trip(user_choice):
+    
+
+    
+         
+        
         
 
                        
